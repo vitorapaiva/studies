@@ -16,6 +16,6 @@ echo number_format(($d+$array[1]),1,'.',',') . "\xA";
 // Concatenate and print the String variables on a new line
 echo $s.$array[2];
 // The 's' variable above should be printed first.
-
+ 
 fclose($handle);
 ?>
