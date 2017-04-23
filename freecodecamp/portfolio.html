@@ -1,0 +1,202 @@
+<!DOCTYPE html><html class=''>
+<head>
+<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'>
+<style class="cp-pen-styles">body { 
+  padding-top: 51px;
+  font-family: Verdana;
+  font-size:13px;
+  background-color: #666666
+}
+.navbar.bg-navbar {
+  background-color: #722872;
+}
+li.fontstyle{
+  font-weight:bold;
+  font-size:15px;
+}
+
+.profile
+{
+  width:300px;
+  height:300px
+}
+.lineformat
+{
+  margin:0px;
+  padding:20px;
+}
+#about{
+  background-color: #888888; 
+  color: #FFFFFF;
+  font-size:20px;
+}
+#portfolio{
+  border-top: solid #CACACA;
+  background-color: #EEEEEE;
+  color: #888888;
+}
+#contact{
+  border-top: solid #CACACA;
+  background-color: #EEEEEE;
+  color: #888888;
+}
+.aboutme {
+  padding-top:60px;
+}
+.footer-color {
+  background-color: #722872;
+}
+a.icon-size
+{
+  font-size:30px;
+}
+a.icon-spacing {
+  margin: 5px;
+}
+hr.styled { 
+  height: 30px; 
+  width: 90%;
+  border-style: solid; 
+  border-color: #FFFFFF; 
+  border-width: 1px 0 0 0; 
+  border-radius: 20px; 
+  margin-bottom:-10px;
+  margin-left:80px;
+} 
+hr.styled:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: #FFFFFF; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+hr.styled2 { 
+  height: 30px; 
+  width: 90%;
+  border-style: solid; 
+  border-color: #888888; 
+  border-width: 1px 0 0 0; 
+  border-radius: 20px; 
+  margin-bottom:-10px;
+  margin-left:80px;
+} 
+hr.styled2:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: #888888; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+.aboutpage {
+  border-top: solid #CACACA;
+  background-color: #EEEEEE;
+  color: #888888;
+}
+</style></head><body>
+ <nav class="navbar navbar-default navbar-fixed-top bg-navbar">
+  <div class="container center">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Abrir</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand navbar-left" href="#">Vitor Paiva</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="fontstyle"><a href="#about">ABOUT</a></li>
+        <li class="fontstyle"><a href="#portfolio">PORTFOLIO</a></li>
+        <li class="fontstyle"><a href="#contact">CONTACT</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+<div class="container">
+  <div class="row lineformat" id="about">
+    <div class="col-md-8 col-xs-12 aboutme text-right">
+      Back-end developer, with practical experience in development of applications in PHP.<br>Currently studying to become a full-stack developer.
+      <hr class="styled">
+      Web Developer - PHP - JavaScript
+    </div>
+    <div class="col-md-4 col-xs-12">
+      <img src="http://i.imgur.com/OlDvaFi.jpg" class="img-circle profile img-fluid" alt="Yeap, it's me">
+    </div>
+  </div> 
+  <div class="row lineformat" id="portfolio">
+    <div class="col-md-12 col-xs-12">
+      <div class="page-header text-center">
+        <h1>Portfolio</h1>
+        <hr class="styled2">
+      </div>
+    </div>    
+    <div class="col-xs-12 col-md-6">
+      <a href="https://codepen.io/vitorapaiva/full/rmLLwe" class="thumbnail" target="_blank">
+        <img src="http://i.imgur.com/8nuVuQB.png" alt="FreeCodeCamp 1 Tribute Page">
+      </a>
+    </div>
+    <div class="col-xs-12 col-md-6">
+      <a href="https://codepen.io/vitorapaiva/full/rmLLwe" class="thumbnail" target="_blank">
+        <img src="http://i.imgur.com/ka3dwu2.png" alt="FreeCodeCamp 2 Portfolio">
+      </a>
+    </div>
+  </div>
+  <div class="row lineformat" id="contact">
+    <div class="col-md-12 col-xs-12">
+      <div class="page-header text-center">
+        <h1>Contact me</h1>
+        <hr class="styled2">
+      </div>
+    </div>
+    <div class="col-xs-6 col-md-6">
+      <form>
+        <div class="form-group">
+          <input type="text" name="name" placeholder="Name" class="form-control">
+        </div>
+        <div class="form-group">
+          <input type="text" name="email" placeholder="E-mail" class="form-control">
+        </div>
+        <div class="form-group">
+          <input type="text" name="telephone" placeholder="Telephone" class="form-control">
+        </div>
+      </form>
+    </div>
+    <div>
+      <h4>You can get in touch with me by using the form right there. Hope to hear from you soon.</h4>
+    </div>
+  </div>
+</div>
+<div class="container-fluid aboutpage">
+  <div class="row">
+      <div class="col-md-6 col-xs-12 text-center">        
+        <h3>About this page<br>
+        <br>
+          Made by Vitor Paiva.</h3>
+      </div>
+      <div class="col-md-6 col-xs-12 text-center">
+        <h3>Around the web<br></h3>
+        <a href="https://github.com/vitorapaiva" class="icon-size icon-spacing" target="_blank"><i class="fa fa-git-square" aria-hidden="true"></i></a>
+        <a href="https://www.linkedin.com/in/vitorapaiva" target="_blank" class="icon-size icon-spacing"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+        <a href="https://codepen.io/vitorapaiva/" class="icon-size icon-spacing" target="_blank"><i class="fa fa-codepen" aria-hidden="true"></i></a>
+      </div>
+  </div>
+</div>
+<footer class="footer footer-color">
+  <div class="container-fluid text-center">
+    <p class="text-muted">Vitor Paiva @ 2017. Al rights reserved.</p>
+  </div>
+</footer>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+<script src='https://use.fontawesome.com/d920823265.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js'></script>
+</body></html>
