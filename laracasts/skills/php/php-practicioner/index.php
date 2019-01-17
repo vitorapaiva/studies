@@ -1,4 +1,13 @@
 <?php
-$greeting='Hello world';
+
+
+$names=[
+	'Satan',
+	'Samael',
+	'Baal',
+	'Azmodan'
+];
+
+
 
 require 'index.view.php';
