@@ -14,8 +14,13 @@
 </head>
 <body>
 	<ul>
-		<?php foreach($names as $name) :?>
-		<li><?= $name; ?></li>
+		<?php foreach($person as $feature => $value) :?>
+		<li><b><?= $feature; ?></b>: <?= $value; ?></li>
+		<?php endforeach; ?>
+	</ul>
+	<ul>
+		<?php foreach($task as $info => $value) :?>
+		<li><b><?= $info; ?></b>: <?= $value; ?></li>
 		<?php endforeach; ?>
 	</ul>
 </body>
