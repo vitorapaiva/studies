@@ -13,14 +13,18 @@
 	</style>
 </head>
 <body>
+	<h1>Task for the day</h1>	
 	<ul>
-		<?php foreach($person as $feature => $value) :?>
-		<li><b><?= $feature; ?></b>: <?= $value; ?></li>
-		<?php endforeach; ?>
-	</ul>
-	<ul>
-		<?php foreach($task as $info => $value) :?>
-		<li><b><?= $info; ?></b>: <?= $value; ?></li>
+		<?php foreach($task as $heading => $value) :?>
+			<?php if($heading!='completed') : ?>
+			<li>
+				<b><?= ucwords($heading); ?></b>: <?= $value; ?>
+			</li>
+		<?php else : ?>
+			<li>
+				<b><?= ucwords($heading); ?></b>: <?= $value ? '&#9989' : 'Incomplete'; ?>
+			</li>
+		<?php endif ?>
 		<?php endforeach; ?>
 	</ul>
 </body>

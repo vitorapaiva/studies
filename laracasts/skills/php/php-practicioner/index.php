@@ -15,7 +15,7 @@ $task=[
 'title'=>'Test Task',
 'due'=>'18/01/2019',
 'assigned_to' => 'Vitor',
-'completed' => 'Yes'
+'completed' => true
 ];
 
 require 'index.view.php';
