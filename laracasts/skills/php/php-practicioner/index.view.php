@@ -15,16 +15,10 @@
 <body>
 	<h1>Task for the day</h1>	
 	<ul>
-		<?php foreach($task as $heading => $value) :?>
-			<?php if($heading!='completed') : ?>
+		<?php foreach($tasks as $task) :?>
 			<li>
-				<b><?= ucwords($heading); ?></b>: <?= $value; ?>
+				<b><?= ucwords($task->description); ?></b>: <?= $task->isComplete() ? '&#9989' : 'Incomplete'; ?>
 			</li>
-		<?php else : ?>
-			<li>
-				<b><?= ucwords($heading); ?></b>: <?= $value ? '&#9989' : 'Incomplete'; ?>
-			</li>
-		<?php endif ?>
 		<?php endforeach; ?>
 	</ul>
 </body>
