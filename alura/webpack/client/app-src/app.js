@@ -1,5 +1,6 @@
 import { NegociacaoController } from './controllers/NegociacaoController.js';
 import { Negociacao } from './domain/index.js';
+import 'bootstrap/dist/css/bootstrap.css';
 
 const controller = new NegociacaoController();
 const negociacao = new Negociacao(new Date(), 1, 200);
@@ -8,11 +9,11 @@ headers.set('Content-Type', 'application/json');
 const body = JSON.stringify(negociacao);
 const method = 'POST';
 
-const config = { 
+const config = {
     method,
     headers,
-    body 
+    body
 };
 
-fetch('/negociacoes', config)
+fetch('http://localhost:3333/negociacoes', config)
     .then(() => console.log('Dado enviado com sucesso'));
