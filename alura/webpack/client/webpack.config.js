@@ -1,9 +1,26 @@
 const path = require('path');
 const babiliPlugin = require('babili-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const optimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 
 let plugins = [];
+plugins.push(
+    new MiniCssExtractPlugin({
+      filename: '[name].css',
+      chunkFilename: '[id].css',
+    }),
+)
 if(process.env.NODE_ENV=='production'){
     plugins.push(new babiliPlugin());
+    plugins.push(new optimizeCSSAssetsPlugin({
+        cssProcessor: require('cssnano'),
+        cssProcessorOptions: {
+            discardComments: {
+                removeAll: true
+            }
+        },
+        canPrint: true
+     }));
 }
 module.exports = {
     entry: './app-src/app.js',
@@ -23,7 +40,15 @@ module.exports = {
             },
             {
                 test: /\.css$/,
-                loader: 'style-loader!css-loader'
+                use: [
+                  {
+                    loader: MiniCssExtractPlugin.loader,
+                    options: {
+                      publicPath: 'dist',
+                    },
+                  },
+                  'css-loader',
+                ],
             },
             {
                 test: /\.(woff|woff2)(\?v=\d+\.\d+\.\d+)?$/,
