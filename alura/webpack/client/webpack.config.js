@@ -2,14 +2,20 @@ const path = require('path');
 const babiliPlugin = require('babili-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const optimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
-
+const webpack = require('webpack');
 let plugins = [];
 plugins.push(
     new MiniCssExtractPlugin({
       filename: '[name].css',
       chunkFilename: '[id].css',
     }),
-)
+);
+plugins.push(
+    new webpack.ProvidePlugin({
+        '$': 'jquery/dist/jquery.js',
+        'jQuery': 'jquery/dist/jquery.js'
+    })
+);
 if(process.env.NODE_ENV=='production'){
     plugins.push(new babiliPlugin());
     plugins.push(new optimizeCSSAssetsPlugin({
