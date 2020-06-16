@@ -4,12 +4,13 @@ import 'product.dart';
 class HomeBodyClass extends StatelessWidget {
 
   Widget generateList(){
-   return PageView( //fiz a opcao de utilizar PageView inves de utilizar o ListView pois o comportamento do PageView me parece mais adequado ao que esta sendo desenvolvido
+   return PageView(
      physics : BouncingScrollPhysics(),
      children: <Widget>[
-        Product('Entry A', 'Description', 'assets/foto1.jpeg'),
-        Product('Entry B', 'Description', 'assets/foto2.jpeg'),
-        Product('Entry C', 'Description', 'assets/foto3.jpg'),
+        Product('IMac', 'Computador topzeira', 'assets/foto1.jpeg'),
+        Product('Macbook Pro', 'Notebook Topzeira', 'assets/foto2.jpeg'),
+        Product('Iphone 11', 'Celular topzeira', 'assets/foto3.jpg'),
+        Product('Mac Pro', 'Computador que custa o PIB do Brasil', 'assets/foto4.jpg'),
       ],
       scrollDirection: Axis.horizontal,
     );
@@ -18,13 +19,12 @@ class HomeBodyClass extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Align(
-      alignment: Alignment.topLeft,
+      alignment: Alignment.topCenter,
       child: SafeArea(
         left: true,
         top: true,
         right: true,
         bottom: true,
-        minimum: const EdgeInsets.all(16.0),
         child: generateList()
       ),
     );

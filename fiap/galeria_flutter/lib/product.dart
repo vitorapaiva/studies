@@ -16,49 +16,47 @@ class _ProductState extends State<Product> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Center(
-        child: Column(
-          children: <Widget> [
-            Card(
-              child: (
-                Stack(
-                  children: <Widget>[
-                    Container(
-                      width: 400,
-                      height: 400,
-                      child: Image.asset(
-                        widget.image,
-                      ),
-                    ),
-                    Positioned(
-                      width: 400,
-                      height: 400,
-                      child: Align(
-                        alignment: FractionalOffset.bottomCenter,
-                        child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.center,
-                            mainAxisSize: MainAxisSize.max,
-                            mainAxisAlignment: MainAxisAlignment.end,
-                            children: <Widget> [
-                              Container(
-                                child: Text(widget.name),
-                                margin: EdgeInsets.only(bottom: 10.0),
-                              ),
-                              Container(
-                                child: Text(widget.description),
-                                margin: EdgeInsets.only(bottom: 10.0),
-                              ),
-                            ]
-                        )
-                      )
+        child: Stack(
+            alignment: Alignment.center,
+            children: <Widget>[
+              Positioned(
+                child: Card(
+                    child: Image.asset(
+                      widget.image,
+                      height: MediaQuery.of(context).size.height,
+                      width: MediaQuery.of(context).size.width,
+                      fit: BoxFit.fitHeight,
                     )
-                  ],
-                )
-              )
-            )
-          ]
-        )
-      ),
-    );
+                ),
+              ),
+              Positioned(
+                    child: Align(
+                        alignment: FractionalOffset.bottomCenter,
+                        child:Container(
+                          child: Text(
+                              widget.name
+                          ),
+                          margin: EdgeInsets.only(bottom: 60.0),
+                          decoration: new BoxDecoration (
+                              color: Colors.black
+                          ),
+                        )
+                    ),
+
+              ),
+              Positioned(
+                  child: Align(
+                      alignment: FractionalOffset.bottomCenter,
+                      child:Container(
+                        child: Text(
+                            widget.description
+                        ),
+                        margin: EdgeInsets.only(bottom: 40.0),
+                      )
+                  )
+              ),
+            ],
+          )
+      );
   }
 }
