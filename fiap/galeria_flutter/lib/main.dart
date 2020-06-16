@@ -45,12 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: HomeBodyClass(),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _nextPicture,
-        tooltip: 'Increment',
-        child: Icon(Icons.add),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
+      body: HomeBodyClass(), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
 }

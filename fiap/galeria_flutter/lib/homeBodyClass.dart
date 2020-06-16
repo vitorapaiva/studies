@@ -11,6 +11,7 @@ class HomeBodyClass extends StatelessWidget {
         Product('Macbook Pro', 'Notebook Topzeira', 'assets/foto2.jpeg'),
         Product('Iphone 11', 'Celular topzeira', 'assets/foto3.jpg'),
         Product('Mac Pro', 'Computador que custa o PIB do Brasil', 'assets/foto4.jpg'),
+        Product('PS5', 'Videogame que um dia meu filho vai ter', 'assets/foto5.png'),
       ],
       scrollDirection: Axis.horizontal,
     );

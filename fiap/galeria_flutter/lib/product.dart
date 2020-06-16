@@ -33,27 +33,18 @@ class _ProductState extends State<Product> {
                     child: Align(
                         alignment: FractionalOffset.bottomCenter,
                         child:Container(
+                          width: MediaQuery.of(context).size.width,
+                          height: MediaQuery.of(context).size.height/7,
                           child: Text(
-                              widget.name
+                              widget.name + '\n' + widget.description,
+                              textAlign: TextAlign.center,
                           ),
-                          margin: EdgeInsets.only(bottom: 60.0),
+                          padding: new EdgeInsets.all(20.0),
                           decoration: new BoxDecoration (
-                              color: Colors.black
+                              color: Colors.white
                           ),
                         )
                     ),
-
-              ),
-              Positioned(
-                  child: Align(
-                      alignment: FractionalOffset.bottomCenter,
-                      child:Container(
-                        child: Text(
-                            widget.description
-                        ),
-                        margin: EdgeInsets.only(bottom: 40.0),
-                      )
-                  )
               ),
             ],
           )
