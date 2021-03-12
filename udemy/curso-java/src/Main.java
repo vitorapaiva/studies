@@ -6,12 +6,12 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
         String x;
-        int y;
-        double z;
+        String y;
+        String z;
 
-        x = sc.next();
-        y = sc.nextInt();
-        z = sc.nextDouble();
+        x = sc.nextLine();
+        y = sc.nextLine();
+        z = sc.nextLine();
 
         System.out.println("Voce digitou: " + x);
         System.out.println("Voce digitou: " + y);

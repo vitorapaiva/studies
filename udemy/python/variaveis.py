@@ -10,3 +10,4 @@ palavra2 = 'Python'
 print(number, numero_jogo, numero_convidados, pi, numero_euler, escala_terremoto, letra, palavra1, palavra2, " Teste concatenacao")
 idade = input('Digite sua idade')
 print('Sua idade é', idade)
+print(palavra1.upper())
