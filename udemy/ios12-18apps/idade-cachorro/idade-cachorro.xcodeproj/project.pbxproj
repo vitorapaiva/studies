@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1910211625FEAA6C00EDDFBF /* cachorro.png in Resources */ = {isa = PBXBuildFile; fileRef = 1910211525FEAA6C00EDDFBF /* cachorro.png */; };
 		1969D19A25FA6CA800930539 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1969D19925FA6CA800930539 /* AppDelegate.swift */; };
 		1969D19C25FA6CA800930539 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1969D19B25FA6CA800930539 /* SceneDelegate.swift */; };
 		1969D19E25FA6CA800930539 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1969D19D25FA6CA800930539 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1910211525FEAA6C00EDDFBF /* cachorro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cachorro.png; path = "../../../../../../Downloads/imagens-app-idade-cachorro/cachorro.png"; sourceTree = "<group>"; };
 		1969D19625FA6CA800930539 /* idade-cachorro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "idade-cachorro.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1969D19925FA6CA800930539 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1969D19B25FA6CA800930539 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				1969D19925FA6CA800930539 /* AppDelegate.swift */,
 				1969D19B25FA6CA800930539 /* SceneDelegate.swift */,
 				1969D19D25FA6CA800930539 /* ViewController.swift */,
+				1910211525FEAA6C00EDDFBF /* cachorro.png */,
 				1969D19F25FA6CA800930539 /* Main.storyboard */,
 				1969D1A225FA6CA900930539 /* Assets.xcassets */,
 				1969D1A425FA6CA900930539 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1910211625FEAA6C00EDDFBF /* cachorro.png in Resources */,
 				1969D1A625FA6CA900930539 /* LaunchScreen.storyboard in Resources */,
 				1969D1A325FA6CA900930539 /* Assets.xcassets in Resources */,
 				1969D1A125FA6CA800930539 /* Main.storyboard in Resources */,

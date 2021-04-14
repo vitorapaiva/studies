@@ -1,0 +1,6 @@
+i = int(input('Digite um inteiro'))
+x = int(input('Digite outro inteiro'))
+print(i+x)
+print(x-i)
+print(x*i)
+print(x/i)

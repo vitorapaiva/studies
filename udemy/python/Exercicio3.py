@@ -1,5 +1,9 @@
-tempo = float(input('Informe o tempo em horas '))
-velocidade = int(input('Informe a velocidade '))
-distancia = velocidade * tempo
-litros = distancia / 12
-print(velocidade, tempo, distancia, litros)
+idade = int(input('Informe idade '))
+if idade < 0:
+    print('Invalido')
+if 0 <= idade <= 12:
+    print('Criança')
+if 13 <= idade <= 17:
+    print('Adolescente')
+if idade >= 18:
+    print('Adulto')
