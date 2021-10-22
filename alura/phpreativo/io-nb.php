@@ -1,18 +1,19 @@
 <?php
 
 $streamList = [
-	fopen('arquivo.txt', 'r');
-	fopen('arquivo2.txt', 'r');
+    stream_socket_client('tcp://webserver:80'),
+    fopen('arquivo1.txt', 'rb'),
+	fopen('arquivo2.txt', 'rb')
 ];
 
-
+fwrite($streamList[0], '');
 foreach($streamList as $stream) {
-	stream_set_block($stream, false);
+	stream_set_blocking($stream, false);
 }
 
 
 do {
-	$copyReadStream = $streamList.
+	$copyReadStream = $streamList;
 	$streamQty = stream_select($copyReadStream, $write, $except, 0, 200000);
 
 	if($streamQty === 0 ) {

@@ -136,177 +136,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd592e4f-33c8-41fa-8195-45e55bcacc91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../kotlin/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../kotlin/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../kotlin/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../kotlin/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../kotlin/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../kotlin/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../kotlin/kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../kotlin/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/androidTest/java/com/example/appnoticia/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/java/com/example/appnoticia/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/drawable/android.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/drawable/celular.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/app/src/test/java/com/example/appnoticia/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/AppNoticia/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/androidTest/java/com/example/netflix/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/java/com/example/netflix/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/app/src/test/java/com/example/netflix/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../android-15apps/Netflix/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/curso-java/ExecCond1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/curso-java/ExecCond2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/curso-java/ExecCond3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/curso-java/application/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecCond1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecCond2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecCond3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/ProductProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique.xcodeproj/project.xcworkspace/xcuserdata/vitor.paiva.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique.xcodeproj/xcuserdata/vitor.paiva.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique/SceneDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/AulaDominique/AulaDominique/ViewController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia.xcodeproj/project.xcworkspace/xcuserdata/vitor.paiva.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia.xcodeproj/xcuserdata/vitor.paiva.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/SceneDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/ViewController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/aspas-direita.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/aspas-esquerda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/frasesDoDia/frasesDoDia/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/playground1.playground/Contents.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/playground1.playground/contents.xcplayground" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio.xcodeproj/project.xcworkspace/xcuserdata/vitor.paiva.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio.xcodeproj/xcuserdata/vitor.paiva.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/SceneDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/ViewController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/botaogerar-pressionado.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/botaogerar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios12-18apps/sorteio/Sorteio/Sorteio/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/Exercicio5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/Exercicio6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../android-15apps/AppSorteio/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-15apps/AppSorteio/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/Datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/Erros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/Math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/Random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/Triangulo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios12-18apps/idade-cachorro/idade-cachorro.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios12-18apps/idade-cachorro/idade-cachorro.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios12-18apps/idade-cachorro/idade-cachorro.xcodeproj/project.xcworkspace/xcuserdata/vitor.paiva.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../ios12-18apps/idade-cachorro/idade-cachorro.xcodeproj/project.xcworkspace/xcuserdata/vitor.paiva.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios12-18apps/idade-cachorro/idade-cachorro/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ios12-18apps/idade-cachorro/idade-cachorro/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios12-18apps/idade-cachorro/idade-cachorro/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../ios12-18apps/idade-cachorro/idade-cachorro/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Exercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/Exercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Exercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/Exercicio2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Exercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/Exercicio3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Exercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/Exercicio4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/ProductProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/ProductProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -457,9 +295,10 @@
     </state>
     <state x="597" y="249" width="597" height="548" key="find.popup/0.25.1792.995@0.25.1792.995" timestamp="1616846546495" />
     <state x="597" y="250" width="597" height="548" key="find.popup/0.25.1792.998@0.25.1792.998" timestamp="1615984298532" />
-    <state x="495" y="144" width="854" height="761" key="new project wizard" timestamp="1616160950412">
-      <screen x="0" y="25" width="1792" height="998" />
+    <state x="2322" y="191" width="854" height="761" key="new project wizard" timestamp="1622750941346">
+      <screen x="1792" y="65" width="1920" height="1055" />
     </state>
     <state x="495" y="144" width="854" height="761" key="new project wizard/0.25.1792.998@0.25.1792.998" timestamp="1616160950412" />
+    <state x="2322" y="191" key="new project wizard/1792.65.1920.1055/0.25.1792.1095@1792.65.1920.1055" timestamp="1622750941346" />
   </component>
 </project>

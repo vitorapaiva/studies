@@ -1,252 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:alura" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:alura" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:webpack" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:alura" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:webpack" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:client" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fiap" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fiap" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:wordpress" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fiap" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:wordpress" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fulcrum" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fiap" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:wordpress" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fulcrum" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:wp-content" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fiap" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:wordpress" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fulcrum" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:wp-content" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:themes" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fiap" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:wordpress" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fulcrum" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:wp-content" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:themes" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:twentynineteen" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fiap" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:wordpress" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fulcrum" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:wp-content" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:themes" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:twentytwenty" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9589a25d-143e-485c-a5ee-abfa54e8729f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/udemy/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/androidTest/java/com/example/netflix/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/java/com/example/netflix/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/app/src/test/java/com/example/netflix/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/android-15apps/Netflix/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/playground1.playground/Contents.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/playground1.playground/contents.xcplayground" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio.xcodeproj/project.xcworkspace/xcuserdata/vitor.paiva.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio.xcodeproj/xcuserdata/vitor.paiva.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/SceneDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/ViewController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/botaogerar-pressionado.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/botaogerar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/ios12-18apps/sorteio/Sorteio/Sorteio/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/python/Exercicio5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/python/Exercicio6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/udemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/android-15apps/AppSorteio/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/android-15apps/AppSorteio/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    <list default="true" id="e3c29745-d802-43f3-8976-b3a96106e5f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alura/phpreativo/io-nb.php" beforeDir="false" afterPath="$PROJECT_DIR$/alura/phpreativo/io-nb.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/udemy/curso-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/curso-java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/ios12-18apps/idade-cachorro/idade-cachorro.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/ios12-18apps/idade-cachorro/idade-cachorro.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/ios12-18apps/idade-cachorro/idade-cachorro.xcodeproj/project.xcworkspace/xcuserdata/vitor.paiva.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/ios12-18apps/idade-cachorro/idade-cachorro.xcodeproj/project.xcworkspace/xcuserdata/vitor.paiva.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/ios12-18apps/idade-cachorro/idade-cachorro/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/ios12-18apps/idade-cachorro/idade-cachorro/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/ios12-18apps/idade-cachorro/idade-cachorro/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/ios12-18apps/idade-cachorro/idade-cachorro/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/python/Exercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/python/Exercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/python/Exercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/python/Exercicio2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/python/Exercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/python/Exercicio3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy/python/Exercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/python/Exercicio4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/curso-java/src/application/ProductProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/curso-java/src/application/ProductProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/curso-java/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/curso-java/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/python/Erros.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/python/Erros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/python/Triangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/python/Triangulo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1pygsV2rD3KGpAaYyXIRpnJRQjK" />
+  <component name="ProjectId" id="1zrZo2RobzEAKQBk3KcjH2gvugZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="sonarlint" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9589a25d-143e-485c-a5ee-abfa54e8729f" name="Default Changelist" comment="" />
-      <created>1616160956067</created>
+      <changelist id="e3c29745-d802-43f3-8976-b3a96106e5f4" name="Changes" comment="" />
+      <created>1634908338968</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616160956067</updated>
+      <updated>1634908338968</updated>
+      <workItem from="1634908342407" duration="958000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -258,11 +61,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="495" y="144" key="new project wizard" timestamp="1616161034092">
-      <screen x="0" y="25" width="1792" height="998" />
-    </state>
-    <state x="495" y="144" key="new project wizard/0.25.1792.998@0.25.1792.998" timestamp="1616161034092" />
   </component>
 </project>
