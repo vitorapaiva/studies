@@ -6,7 +6,8 @@ $streamList = [
 	fopen('arquivo2.txt', 'rb')
 ];
 
-fwrite($streamList[0], '');
+fwrite($streamList[0], 'GET /http-server.php HTTP/1.1'. PHP_EOL . PHP_EOL);
+
 foreach($streamList as $stream) {
 	stream_set_blocking($stream, false);
 }
@@ -22,7 +23,14 @@ do {
 	}
 
 	foreach($copyReadStream as $key => $stream) {
-		echo fgets($stream);
+		$conteudo = fgets($stream);
+		$posicao = strpos($conteudo, PHP_EOL.PHP_EOL);
+		if($posicao !== false) {
+			echo substr($conteudo, $posicao + 4 );
+		}
+		else {
+			echo $conteudo;
+		}
 		unset($streamList[$key]);
 	}
 
