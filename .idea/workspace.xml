@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e3c29745-d802-43f3-8976-b3a96106e5f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/alura/phpcleanarch/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alura/phpcleanarch/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/alura/phpcleanarch/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alura/phpreativo/io-nb.php" beforeDir="false" afterPath="$PROJECT_DIR$/alura/phpreativo/io-nb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alura/phpreativo/react-io-nb.php" beforeDir="false" afterPath="$PROJECT_DIR$/alura/phpreativo/react-io-nb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alura/phpreativo/socker-server.php" beforeDir="false" afterPath="$PROJECT_DIR$/alura/phpreativo/socker-server.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/alura/phpreativo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="sonarlint" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -51,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634908338968</updated>
       <workItem from="1634908342407" duration="958000" />
-      <workItem from="1640609685061" duration="396000" />
+      <workItem from="1640609685061" duration="5107000" />
     </task>
     <servers />
   </component>

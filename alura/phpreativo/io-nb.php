@@ -1,7 +1,7 @@
 <?php
 
 $streamList = [
-    stream_socket_client('tcp://webserver:80'),
+    stream_socket_client('tcp://php-fpm:9000'),
     fopen('arquivo1.txt', 'rb'),
 	fopen('arquivo2.txt', 'rb')
 ];
