@@ -22,6 +22,9 @@ services:
             - './phpdocker/php-fpm/php-ini-overrides.ini:/etc/php/8.0/fpm/conf.d/99-overrides.ini'
         networks:
             - bubble
+        ports:
+            - '8002:8002'
+
 networks: 
   bubble:
     external: true
